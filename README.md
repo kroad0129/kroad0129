@@ -11,7 +11,7 @@
 - **Instagram**: @taehee0_0129 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taehee0_0129/)
     
 ## 🏆 수상 경력
-- **2023 고용패널조사 브리프 경진대회** 장려상 수상  
+- **2023 고용패널조사 브리프 경진대회** 장려상 수상 (기술경영학과) 
   - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
 
 ## 🎓 Experience
