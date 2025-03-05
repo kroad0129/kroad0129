@@ -6,9 +6,9 @@
 - 📚 **부전공:** 기술경영학 (Management of Technology, MOT)  
 
 ## 📬 Contact
-- **Email**: kroad0129@naver.com [![Email Badge](https://img.shields.io/badge/-kroad0129@naver.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kroad0129@naver.com)
-- **Github**: https://github.com/kroad0129 [![GitHub Badge](https://img.shields.io/badge/-kroad0129-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/kroad0129)
-- **Instagram**: @taehee0_0129 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taehee0_0129/)
+- **Email**: [![Email Badge](https://img.shields.io/badge/-kroad0129@naver.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kroad0129@naver.com)
+- **Github**: [![GitHub Badge](https://img.shields.io/badge/-kroad0129-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/kroad0129)
+- **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taehee0_0129/) @taehee0_0129
     
 ## 🏆 수상 경력
 - **2023 고용패널조사 브리프 경진대회** 장려상 수상 (기술경영학과) 
