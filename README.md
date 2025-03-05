@@ -28,7 +28,6 @@
 - **2023 고용패널조사 브리프 경진대회** 장려상 수상 (기술경영학과) 
   - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
 
-
 ## 💡 기술 스택
 
 ### Languages
@@ -42,6 +41,11 @@
 
 ### Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
+
+### Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
+
 
 ## 📃 프로젝트
 
