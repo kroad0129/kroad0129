@@ -15,7 +15,7 @@
 - **제8대 스마트ICT융합공학과 학생회 'QUEUE' 기획집행국원 (2024)
 - **제8대 KU융합과학기술원 학생회 '에이트' 감사소위원 (2024) -->
 
-## 📜 자격증 (Certificates)
+## 📜 자격증
 - **행정관리사 3급**
 - **워드프로세서**
 - **컴퓨터활용능력 2급**
@@ -29,7 +29,7 @@
   - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
 
 
-## 💡 기술 스택 (Tech Stack)
+## 💡 기술 스택
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
