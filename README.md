@@ -6,7 +6,7 @@
 - 📚 **부전공:** 기술경영학 (Management of Technology, MOT)  
 
 ## 📬 Contact
-- **Email**: [kroad0129@naver.com](mailto:kroad0129@naver.com) [![Email Badge](https://img.shields.io/badge/-kroad0129@naver.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kroad0129@naver.com)
+- **Email**: kroad0129@naver.com [![Email Badge](https://img.shields.io/badge/-kroad0129@naver.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kroad0129@naver.com)
 - **Github**: https://github.com/kroad0129 [![GitHub Badge](https://img.shields.io/badge/-kroad0129-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/kroad0129)
 - **Instagram**: @taehee0_0129 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taehee0_0129/)
     
