@@ -21,7 +21,7 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **Hi_Buy** | 건강기능식품 섭취 데이터기반 이커머스 플랫폼 | [완료](https://github.com/kroad0129/Hi_Buy) |
-| **Fitpass** | 회원권 양도 서비스 | [완](https://github.com/kroad0129/fitpass) |
+| **Fitpass** | 회원권 양도 서비스 | [완료](https://github.com/kroad0129/fitpass) |
 | **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천서비스 | [완료](https://github.com/kroad0129/lipservice) |
 | **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [완료](https://github.com/kroad0129/noonko) |
 
