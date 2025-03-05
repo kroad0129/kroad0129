@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh130334&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/ljh130334)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh130334&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/kroad0129130334)
 
 ## 👩🏻‍💻 About me 
 - **건국대학교** (Konkuk University) 
@@ -6,9 +6,9 @@
 - **기술경영학전공** (MOT)
 
 ## 📬 Contact
-- **Email**: [kroad0129@naver.com](mailto:kroad0129@naver.com) / [ljh130334@gmail.com](mailto:ajk8610@gmail.com)
+- **Email**: [kroad0129@naver.com](mailto:kroad0129@naver.com) 
 - **Github**: https://github.com/kroad0129
-- **Instagram**: @taehee0_0129
+- **Instagram**: @taehee0_0129 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taehee0_0129/)
     
 ## 🏆 수상 경력
 - `2023.12` 2023 고용패널조사 브리프 경진대회 **장려상** 수상 (논문명: 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석)
