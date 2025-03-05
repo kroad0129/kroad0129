@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me 
 - **건국대학교** (Konkuk University) 
-- **스마트ICT융합공학과** (Computer Science and Engineering)   
+- **스마트ICT융합공학과** (Department of Smart ICT Convergence)   
 - **기술경영학전공** (MOT)
 
 ## 📬 Contact
@@ -25,10 +25,4 @@
 | **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천서비스 | [완료](https://github.com/kroad0129/lipservice) |
 | **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [완료](https://github.com/kroad0129/noonko) |
 
-## Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh130334&theme=react-dark&bg_color=20232a&hide_border=true&line=ffd700&color=ffd700" width=94%/>
-</a>
+
