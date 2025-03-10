@@ -30,12 +30,12 @@
 
 ## 📃 프로젝트
 
-| 프로젝트명 | 설명 | 깃허브 |
-|------------|------|--------|
-| 💊 **Hi_Buy** | 건강기능식품 섭취 데이터기반 이커머스 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/Hi_Buy) |
-| 🏋️ **Fitpass** | 회원권 양도 서비스 | [🔗 GitHub](https://github.com/kroad0129/fitpass) |
-| 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [🔗 GitHub](https://github.com/kroad0129/lipservice) |
-| ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/noonko) |
+| 프로젝트명 | 설명 | 깃허브 | 보고서 | 논문 |
+|------------|------|--------|-------|-------|
+| 💊 **Hi_Buy** | 건강기능식품 섭취 데이터기반 이커머스 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/Hi_Buy) | | |
+| 🏋️ **Fitpass** | 회원권 양도 서비스 | [🔗 GitHub](https://github.com/kroad0129/fitpass) | | |
+| 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [🔗 GitHub](https://github.com/kroad0129/lipservice) | [a](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link) | [a](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
+| ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/noonko) | [a](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link) | [a](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
 
 ## 💡 기술 스택
 
