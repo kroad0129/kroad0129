@@ -37,6 +37,7 @@
 | 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [🔗 GitHub](https://github.com/kroad0129/lipservice) | [🔗 PDF](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link) | [🔗 PDF](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
 | ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/noonko) | [🔗 PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link) | [🔗 PDF](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
 | | 헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석 | | | [🔗 PDF](https://drive.google.com/file/d/1Zjf1DV6M6OANiJJIRVzrTYrecFluwgBa/view?usp=drive_link) |
+| **kth_portfolio**| 나만의 포트폴리오 만들기 프로젝트!(진행중) | [🔗 GitHub](https://github.com/kroad0129/kth-portfolio) | | |
 
 ## 💡 기술 스택
 
@@ -46,7 +47,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
-
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
@@ -58,6 +58,18 @@
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
+
+### 사용해봤어요!
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=MongoDB&logoColor=white)
+
 
 
 
