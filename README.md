@@ -37,8 +37,8 @@
 | 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [🔗 GitHub](https://github.com/kroad0129/lipservice) | [🔗 PDF](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link) | [🔗 PDF](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
 | ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/noonko) | [🔗 PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link) | [🔗 PDF](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
 | | 헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석 | | | [🔗 PDF](https://drive.google.com/file/d/1Zjf1DV6M6OANiJJIRVzrTYrecFluwgBa/view?usp=drive_link) |
-| **kth_portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [🔗 GitHub](https://github.com/kroad0129/kth-portfolio)(진행중) | | |
-| **fitbit-iot**| fitbit을 활용한 홈IoT 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/fitbit-iot)(진행중) | | |
+| 📑**kth_portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [🔗 GitHub](https://github.com/kroad0129/kth-portfolio)(진행중) | | |
+| 🏠**fitbit-iot**| fitbit을 활용한 홈IoT 플랫폼 | [🔗 GitHub](https://github.com/kroad0129/fitbit-iot)(진행중) | | |
 
 ## 💡 기술 스택
 
