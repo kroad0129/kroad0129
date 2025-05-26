@@ -52,7 +52,21 @@
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28험해봤어요!
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+### Cloud  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white)
+![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-F90?style=flat&logo=AWS%20Lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F00?style=flat&logo=Amazon-API-Gateway&logoColor=white)
+
+### Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
+
+### 경험험해봤어요!
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -63,8 +77,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=MongoDB&logoColor=white)
-
-
 
 
 
