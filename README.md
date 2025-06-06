@@ -33,6 +33,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 | 보고서 | 논문 |
 |------------|------|--------|-------|-------|
+|  | 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석 | | |[PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link)|
 | 💊 **Hi_Buy** | 건강기능식품 섭취 데이터기반 이커머스 플랫폼 | [GitHub](https://github.com/kroad0129/Hi_Buy) | [PDF](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing) | |
 | 🏋️ **Fitpass** | 회원권 양도 서비스 | [GitHub](https://github.com/kroad0129/fitpass) | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing) | |
 | 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [GitHub](https://github.com/kroad0129/lipservice) | [PDF](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link) | [PDF](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
