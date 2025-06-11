@@ -40,7 +40,7 @@
 | ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [GitHub](https://github.com/kroad0129/noonko) | [PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link) | [PDF](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
 | | 헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석 | | | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing) |
 | 🍕 **모두의냉장고** | 대학생 간 나눔을 위한 실시간 채팅 기반 식품 공유 플랫폼 | [GitHub](https://github.com/kroad0129/everybox) |[PDF](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk) | |
-| 📑**kth_portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [GitHub](https://github.com/kroad0129/kth-portfolio)(진행중) | | |
+| 📑**my-portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [GitHub](https://github.com/kroad0129/my-portfolio)(진행중) | | |
 | 🏠**fitbit-iot**| fitbit을 활용한 홈IoT 플랫폼 | [GitHub](https://github.com/kroad0129/fitbit-iot)(진행중) | | |
 
 ## 💡 기술 스택
