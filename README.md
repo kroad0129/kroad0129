@@ -40,7 +40,11 @@
 | 🏋️ **Fitpass**     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
 | 💄 **LipService**   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [PDF](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
 | ⚖️ **NoonKo**       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |                                                                             |
+
+## 📃 사이드 프로젝트
 | 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | 진행중                                                                                                                                                                                       |
+| 📑 **LoL-Team-Matcher** | 롤 내전 자동 팀 매칭                | [Link]([https://github.com/kroad0129/my-portfolio](https://github.com/kroad0129/lol-team-matcher))  | 진행중                                                                                                                                                                                       |
+
 ## 📄 논문 및 학술 연구
 
 | 제목                                                  | 설명                          | 논문                                                                                           |
