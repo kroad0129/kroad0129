@@ -42,7 +42,7 @@
 | 🍕 **EveryBox** | 대학생 간 나눔을 위한 실시간 채팅 기반 식품 공유 플랫폼 | [GitHub](https://github.com/kroad0129/everybox) |[PDF](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk) | |
 | 📑**my-portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [GitHub](https://github.com/kroad0129/my-portfolio)(진행중) | | |
 | 🏠**fitbit-iot**| fitbit을 활용한 홈IoT 모니터링 플랫폼 | [GitHub](https://github.com/kroad0129/fitbit-iot) |[PDF](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)| |
-| 🏠**KUSLS**|  | [GitHub](https://github.com/KUmmIT-team2/KUSLS-Back) |[PDF](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)| [PDF](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)|
+| 🏠**KUSLS**|  | [GitHub](https://github.com/KUmmIT-team2/KUSLS-Back) | [PDF](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)||
 
 ## 💡 기술 스택
 
