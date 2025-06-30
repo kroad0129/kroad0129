@@ -42,6 +42,8 @@
 | ⚖️ **NoonKo**       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |                                                                             |
 
 ## 📃 사이드 프로젝트
+| 프로젝트명               | 설명                              | GitHub                                             | 보고서                                                                                                                                                                                       |
+| ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | 진행중                                                                                                                                                                                       |
 | 📑 **LoL-Team-Matcher** | 롤 내전 자동 팀 매칭                | [Link]([https://github.com/kroad0129/my-portfolio](https://github.com/kroad0129/lol-team-matcher))  | 진행중                                                                                                                                                                                       |
 
