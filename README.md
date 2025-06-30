@@ -29,20 +29,24 @@
 - **2023 고용패널조사 브리프 경진대회** 장려상 수상 (기술경영학과) 
   - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
 
-## 📃 프로젝트 & 논문
+## 📃 프로젝트
 
-| 프로젝트명 | 설명 | 깃허브 | 보고서 | 논문 |
-|------------|------|--------|-------|-------|
-|  | 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석 | | |[PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link)|
-| 💊 **Hi_Buy** | 건강기능식품 섭취 데이터기반 이커머스 플랫폼 | [GitHub](https://github.com/kroad0129/Hi_Buy) | [PDF](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing) | |
-| 🏋️ **Fitpass** | 회원권 양도 서비스 | [GitHub](https://github.com/kroad0129/fitpass) | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing) | |
-| 💄 **LipService** | AI를 활용하여 퍼스널 컬러에 따른 사용자 맞춤형 제품 추천 서비스 | [GitHub](https://github.com/kroad0129/lipservice) | [PDF](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link) | [PDF](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
-| ⚖️ **NoonKo** | 법률 정보 검색 및 판례 유사도 분석 플랫폼 | [GitHub](https://github.com/kroad0129/noonko) | [PDF](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link) | [PDF](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
-| | 헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석 | | | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing) |
-| 🍕 **EveryBox** | 대학생 간 나눔을 위한 실시간 채팅 기반 식품 공유 플랫폼 | [GitHub](https://github.com/kroad0129/everybox) |[PDF](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk) | |
-| 📑**My-Portfolio**| 나만의 포트폴리오 만들기 프로젝트! | [GitHub](https://github.com/kroad0129/my-portfolio)(진행중) | | |
-| 🏠**Fitbit-IoT**| fitbit을 활용한 홈IoT 모니터링 플랫폼 | [GitHub](https://github.com/kroad0129/fitbit-iot) |[PDF](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)| |
-| 🏠**KUSLS**|  | [GitHub](https://github.com/KUmmIT-team2/KUSLS-Back) | [PDF](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)||
+| 프로젝트명               | 설명                              | GitHub                                             | 보고서                                                                                                                                                                                       |
+| ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💊 **Hi\_Buy**      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [PDF](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
+| 🏋️ **Fitpass**     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
+| 💄 **LipService**   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [보고서](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
+| ⚖️ **NoonKo**       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
+| 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [PDF](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
+| 🏠 **Fitbit-IoT**   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [PDF](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
+| 🏠 **KUSLS**        | 스마트 IoT 기반 스마트락 서비스 (학과 팀 프로젝트) | [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [PDF](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)                                                                                                 |
+| 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | 진행중                                                                                                                                                                                       |
+## 📄 논문 및 학술 연구
+
+| 제목                                                  | 설명                          | 논문                                                                                           |
+| --------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------- |
+| **코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석**                | 2023 고용패널조사 브리프 경진대회 장려상 수상 | [PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link) |
+| **헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석** | 기술경영학 연구 과제                 | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing)    |
 
 ## 💡 기술 스택
 
