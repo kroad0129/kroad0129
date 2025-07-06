@@ -51,8 +51,8 @@
 
 | 제목                                                  | 설명                          | 논문                                                                                           |
 | --------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------- |
-| **코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석**                |  | [PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link) |
-| **헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석** | 기술경영학 연구 과제                 | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing)    |
+| **코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석**                | 기술경영학 | [PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link) |
+| **헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석** | 기술경영학                 | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing)    |
 
 ## 💡 기술 스택
 
