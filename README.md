@@ -30,7 +30,7 @@
 - **2023 고용패널조사 브리프 경진대회** 🏅장려상 수상 (기술경영학과) 
   - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
 - **2025 구름톤 in 판교** 🥇최우수팀(1등) 수상 (팀명 : 선장) 
-  - **서비스명:** OUTLINE "보이지 않던 지역을 발견하고, 함께 움직이다"
+  - **서비스명:** 선장 "행동 데이터 기반 설문조사 플랫폼"
 - **2025 구름 딥다이브 해커톤** 🥇대상(1등) 수상 (팀명 : 로컬프렌즈) 
   - **서비스명:** OUTLINE "보이지 않던 지역을 발견하고, 함께 움직이다"
 
@@ -41,7 +41,7 @@
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
-| 🗺️ **선택장애**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
+| 🗺️ **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
 | 🏫 **KUSLS**        |건국대학교 자율전공학생을 위한 커뮤니티 플랫폼| [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표PPT](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)   
 | 🏠 **Fitbit-IoT**   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [PDF](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
 | 💊 **Hi_Buy**      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [발표PPT](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
