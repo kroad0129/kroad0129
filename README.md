@@ -40,10 +40,10 @@
 
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🗺️ **RUNSPOT**     | 러닝크루       | [Link](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
+| 🏃 **RUNSPOT**     | 러닝크루       | [Link](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
-| 🗺️ **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
+| 🧑 **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
 | 🏫 **KUSLS**        |건국대학교 자율전공학생을 위한 커뮤니티 플랫폼| [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표PPT](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)   
                                                                           
 ## 📃 Academic Projects
