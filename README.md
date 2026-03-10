@@ -40,6 +40,7 @@
 
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🗺️ **RUNSPOT**     | 러닝크루       | [Link](https://github.com/kroad0129/outline)      | 
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
 | 🗺️ **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
@@ -58,9 +59,9 @@
 | 프로젝트명               | 설명                              | GitHub                                             | Demo | 진행상황                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------- |
 | 📑 **BoyFriendFinder** | 남자친구가 안자고 게임 하는거 같다구요?               | [Link](https://github.com/kroad0129/bffinder)  | [중지](http://52.79.236.6:3000/) | 중단                                                                                                                                                                                      |
-| 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/)| 진행중                                                                                                                                                                                       |
+| 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/)| 중단                                                                                                                                                                                      |
 | 📑 **LoL-Team-Matcher** | 롤 내전 자동 팀 매칭                | [Link](https://github.com/kroad0129/lol-team-matcher)  | [Demo](https://lol-team-matcher.vercel.app/) | 중단        
-| 📑 **playcock** | 배드민턴 관리 어플                | [Link](https://github.com/kroad0129/playcock)  | [Demo](http://3.35.22.92/) | 진행중   
+| 📑 **playcock** | 배드민턴 관리 어플                | [Link](https://github.com/kroad0129/playcock)  | [중지](http://3.35.22.92/) | 진행중   
 
 ## 📄 Publications & Research
 
