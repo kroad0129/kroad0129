@@ -40,7 +40,7 @@
 
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏃 **RUNSPOT**     | 러닝크루       | [Link](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
+| 🏃 **RUNSPOT**     | 러닝크루       | [진행중](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
 | 🧑 **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
