@@ -37,23 +37,22 @@
 
 ## 📃 Team Projects
 
-| 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
-| ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏃 **RUNSPOT**     | 러닝크루       | [진행중](https://github.com/deepdive15-team1/Final_Project-BE)      | -
-| 🏃 **오손도손**     | 오손도손       | [Link](https://github.com/kroad0129/OSDS)      | [발표자료](https://drive.google.com/file/d/1Z7-kJxx8NY3ByNusRM5c_SVsesUd_5J-/view?usp=drive_link)
-| 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표자료](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
-| 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표자료](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
-| 🧑 **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  -
-| 🏫 **KUSLS**        |자율전공 학생을 위한 학교 생활 커뮤니티 플랫폼| [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표자료](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)   
-                                                                          
-## 📃 Academic Projects
-| 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
-| ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fitbit-IoT   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [보고서](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
-| NoonKo       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
-| Hi_Buy      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [발표자료](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
-| LipService   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [보고서](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
-| Fitpass     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
+| 프로젝트명 | 설명 | GitHub | 자료 |
+| --- | --- | --- | --- |
+| 🏃 **RUNSPOT** | 위치 기반 러닝 메이트 매칭 서비스 | [진행중](https://github.com/deepdive15-team1/Final_Project-BE) | - |
+| 🏠 **오손도손** | 성향 기반 공동주거 매칭 및 지역 시세·안전 정보 제공 서비스 | [Link](https://github.com/kroad0129/OSDS) | [발표자료](https://drive.google.com/file/d/1Z7-kJxx8NY3ByNusRM5c_SVsesUd_5J-/view?usp=drive_link) |
+| 🗺️ **OUTLINE** | 지역 이슈 제보·공감·해결을 지도와 AI 요약으로 연결한 플랫폼 | [Link](https://github.com/kroad0129/outline) | [발표자료](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing) |
+| 🍕 **EveryBox** | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼 | [Link](https://github.com/kroad0129/everybox) | [발표자료](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk) |
+| 🧭 **선장(선택장애)** | 행동 데이터 기반 선택 성향 분석 설문 플랫폼 | [Link](https://github.com/kroad0129/deepdive-survey-fe) | - |
+| 🏫 **KUSLS** | 자율전공 학생을 위한 학교생활 커뮤니티 플랫폼 | [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표자료](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing) |
+
+## 📃 Side Projects
+
+| 프로젝트명 | 설명 | GitHub | Demo | 진행상황 |
+| --- | --- | --- | --- | --- |
+| 🏸 **playcock** | 배드민턴 모임 운영 및 경기 관리 서비스 | [Link](https://github.com/kroad0129/playcock) | [Demo](http://3.35.236.140/) | 진행 중 |
+| 🎮 **BoyFriendFinder** | 게임 중인 남자친구 상태를 확인하는 재미형 서비스 | [Link](https://github.com/kroad0129/bffinder) | [중지](http://52.79.236.6:3000/) | 중단 |
+| 💼 **My-Portfolio** | 개인 포트폴리오 웹사이트 | [Link](https://github.com/kroad0129/my-portfolio) | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/) | - |
 
 ## 📃 Side Projects
 | 프로젝트명               | 설명                              | GitHub                                             | Demo | 진행상황                                                                                                                                                                                       |
