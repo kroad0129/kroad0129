@@ -40,7 +40,7 @@
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🏃 **RUNSPOT**     | 러닝크루       | [진행중](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
-| 🏃 **오손도손**     | 오손도손       | [진행중](https://github.com/deepdive15-team1/Final_Project-BE)      | []()
+| 🏃 **오손도손**     | 오손도손       | [진행중](https://github.com/kroad0129/OSDS)      | []()
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
 | 🧑 **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
@@ -49,19 +49,19 @@
 ## 📃 Academic Projects
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏠 **Fitbit-IoT**   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [보고서](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
-| 💊 **Hi_Buy**      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [발표PPT](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
-| 🏋️ **Fitpass**     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
-| 💄 **LipService**   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [보고서](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
-| ⚖️ **NoonKo**       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |   
+| Fitbit-IoT   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [보고서](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
+| NoonKo       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
+| Hi_Buy      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [발표PPT](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
+| LipService   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [보고서](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
+| Fitpass     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
 
 ## 📃 Side Projects
 | 프로젝트명               | 설명                              | GitHub                                             | Demo | 진행상황                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------- |
+| 📑 **playcock** | 배드민턴 관리 어플                | [Link](https://github.com/kroad0129/playcock)  | [중지](http://3.35.22.92/) | 진행중   
 | 📑 **BoyFriendFinder** | 남자친구가 안자고 게임 하는거 같다구요?               | [Link](https://github.com/kroad0129/bffinder)  | [중지](http://52.79.236.6:3000/) | 중단                                                                                                                                                                                      |
 | 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/)| 중단                                                                                                                                                                                      |
-| 📑 **LoL-Team-Matcher** | 롤 내전 자동 팀 매칭                | [Link](https://github.com/kroad0129/lol-team-matcher)  | [Demo](https://lol-team-matcher.vercel.app/) | 중단        
-| 📑 **playcock** | 배드민턴 관리 어플                | [Link](https://github.com/kroad0129/playcock)  | [중지](http://3.35.22.92/) | 진행중   
+| 📑 **LoL-Team-Matcher** | 롤 내전 자동 팀 매칭                | [Demo](https://lol-team-matcher.vercel.app/) | 중단        
 
 ## 📄 Publications & Research
 
