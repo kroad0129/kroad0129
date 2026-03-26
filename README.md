@@ -28,14 +28,14 @@
 - **2025.02 ~ 2026.02  |**  구름톤 유니브 4기 건국대학교(서울) 부대표
     
 ## 🏆 Awards
-- **2025 [kakao x goorm] 딥다이브 해커톤** 🥇대상 수상 (팀명 : 로컬프렌즈) 
-  - **서비스명:** OUTLINE "보이지 않던 지역을 발견하고, 함께 움직이다"
-- **2025 구름톤 in 판교** 🥇최우수 수상 (팀명 : 선장) 
-  - **서비스명:** 선장 "행동 데이터 기반 설문조사 플랫폼"
-- **2023 고용패널조사 브리프 경진대회** 🏅장려상 수상 (기술경영학과) 
-  - **논문명:** 코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석
+- **2025 [kakao x goorm] 딥다이브 해커톤 대상**  
+  - OUTLINE | 지역 정보 격차 해소 서비스
+- **2025 구름톤 in 판교 최우수상**  
+  - 선장 | 행동 데이터 기반 설문조사 플랫폼
+- **2023 고용패널조사 브리프 경진대회 장려상**  
+  - 코로나 이후 세대의 직장 만족도 영향 요인 분석
 
-## 📃 Projects
+## 📃 Team Projects
 
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,13 +44,13 @@
 | 🗺️ **OUTLINE**     | 지역 정보 격차 해소       | [Link](https://github.com/kroad0129/outline)      | [발표PPT](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing)       
 | 🍕 **EveryBox**     | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼       | [Link](https://github.com/kroad0129/everybox)      | [발표PPT](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk)                                                                                                |
 | 🧑 **선장(선택장애)**     | 행동기반 데이터 수집 설문조사 플랫폼       | [Link](https://github.com/kroad0129/deepdive-survey-fe)      |  
-| 🏫 **KUSLS**        |건국대학교 자율전공학생을 위한 커뮤니티 플랫폼| [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표PPT](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)   
+| 🏫 **KUSLS**        |자율전공 학생을 위한 학교 생활 커뮤니티 플랫폼| [Link](https://github.com/KUmmIT-team2/KUSLS-Back) | [발표PPT](https://drive.google.com/file/d/1Yrm_88IR43MysQcCbFWh4n_yi3SwB7u8/view?usp=sharing)   
                                                                           
 ## 📃 Academic Projects
 | 프로젝트명               | 설명                              | GitHub                                             | PDF                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fitbit-IoT   | Fitbit을 활용한 홈 IoT 모니터링 플랫폼      | [Link](https://github.com/kroad0129/fitbit-iot)    | [보고서](https://drive.google.com/file/d/17Tpvgf2jLOJygjyphp2wGA4ogzJaKNkI/view?usp=drive_link)                                                                                              |
-| NoonKo       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
+| NoonKo       | 법률 정보 검색 및 판례 유사도 분석 플랫폼        | [Link](https://github.com/kroad0129/noonko)        | [보고서](https://drive.google.com/file/d/1fob5QRn9vgcNixoHTByyTvBq1PI0QcLs/view?usp=drive_link), [논문](https://drive.google.com/file/d/1rgsw9NkbiUMw4mRant7kjX4OhxL8ZDOt/view?usp=drive_link) |
 | Hi_Buy      | 건강기능식품 섭취 데이터 기반 이커머스 플랫폼       | [Link](https://github.com/kroad0129/Hi_Buy)        | [발표PPT](https://drive.google.com/file/d/1mj3pa3l0ZLi2JtsvjApWENonAHUMkJw8/view?usp=sharing)                                                                                                 |
 | LipService   | AI 기반 퍼스널 컬러 맞춤 제품 추천 서비스       | [Link](https://github.com/kroad0129/lipservice)    | [보고서](https://drive.google.com/file/d/1mKYCahIGwqR_K4gZppTjKudkG1t0thay/view?usp=drive_link), [논문](https://drive.google.com/file/d/1v3F8U3QipYXcZJI3fjsKR6ccu_6ovPxy/view?usp=drive_link) |
 | Fitpass     | 회원권 양도 서비스                      | [Link](https://github.com/kroad0129/fitpass)       | [PDF](https://drive.google.com/file/d/1hvyuP48FZpvEu2LEdQj6cfpGpH-Fm1fs/view?usp=sharing)                                                                                                 |
@@ -58,9 +58,9 @@
 ## 📃 Side Projects
 | 프로젝트명               | 설명                              | GitHub                                             | Demo | 진행상황                                                                                                                                                                                       |
 | ------------------- | ------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------- |
-| 📑 **playcock** | 배드민턴 관리 어플                | [Link](https://github.com/kroad0129/playcock)  | [Demo](http://3.35.236.140/) | 진행중   
+| 📑 **playcock** | 배드민턴 관리 서비                | [Link](https://github.com/kroad0129/playcock)  | [Demo](http://3.35.236.140/) | 진행중   
 | 📑 **BoyFriendFinder** | 남자친구가 안자고 게임 하는거 같다구요?               | [Link](https://github.com/kroad0129/bffinder)  | [중지](http://52.79.236.6:3000/) | 중단                                                                                                                                                                                      |
-| 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/)| 중단                                                                                                                                                                                      |     
+| 📑 **My-Portfolio** | 개인 포트폴리오 웹사이트 제작                | [Link](https://github.com/kroad0129/my-portfolio)  | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/)| -                                                                                                                                                                                      |     
 
 ## 📄 Publications & Research
 
