@@ -50,7 +50,7 @@
 
 | 프로젝트명 | 설명 | GitHub | Demo | 진행상황 |
 | --- | --- | --- | --- | --- |
-| 🏸 **playcock** | 배드민턴 모임 운영 및 경기 관리 서비스 | [Link](https://github.com/kroad0129/playcock) | [Demo](http://3.35.236.140/) | 진행 중 |
+| 🏸 **playcock** | 배드민턴 모임 운영 및 경기 관리 서비스 | [BE](https://github.com/kroad0129/playcock-backend)[FE](https://github.com/kroad0129/playcock-frontend) | [Demo](http://3.35.236.140/) | 진행 중 |
 | 🎮 **BoyFriendFinder** | 게임 중인 남자친구 상태를 확인하는 재미형 서비스 | [Link](https://github.com/kroad0129/bffinder) | [중지](http://52.79.236.6:3000/) | 중단 |
 | 💼 **My-Portfolio** | 개인 포트폴리오 웹사이트 | [Link](https://github.com/kroad0129/my-portfolio) | [Demo](https://my-portfolio-sigma-lemon-67.vercel.app/) | - |
 
