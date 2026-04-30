@@ -39,7 +39,7 @@
 
 | 프로젝트명 | 설명 | GitHub | 자료 |
 | --- | --- | --- | --- |
-| 🏃 **RUNSPOT** | 위치 기반 러닝 메이트 매칭 서비스 | [진행중](https://github.com/deepdive15-team1/Final_Project-BE) | - |
+| 📄 **SafeLease** | 부동산 계약서 검토 서비스 | [진행중](https://github.com/kroad0129/safelease) | - |
 | 🏠 **오손도손** | 성향 기반 공동주거 매칭 및 지역 시세·안전 정보 제공 서비스 | [Link](https://github.com/kroad0129/OSDS) | [발표자료](https://drive.google.com/file/d/1Z7-kJxx8NY3ByNusRM5c_SVsesUd_5J-/view?usp=drive_link) |
 | 🗺️ **OUTLINE** | 지역 이슈 제보·공감·해결을 지도와 AI 요약으로 연결한 플랫폼 | [Link](https://github.com/kroad0129/outline) | [발표자료](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing) |
 | 🍕 **EveryBox** | 대학생 간 실시간 채팅 기반 식품 공유 플랫폼 | [Link](https://github.com/kroad0129/everybox) | [발표자료](https://drive.google.com/file/d/11Ug_jemhFSToKvMkZka12PqV0s8hwhfw/view?usp=drivesdk) |
