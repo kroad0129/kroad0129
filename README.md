@@ -61,38 +61,39 @@
 | **코로나 이후 세대의 직장 만족도에 영향을 미치는 요인 분석**                | 기술경영학 | [PDF](https://drive.google.com/file/d/1nyYbUa_b_KnCrNzqA2RrJHwLwaiQ3lNj/view?usp=drive_link) |
 | **헬스케어 시장의 파괴적 혁신: CES Innovation Awards의 핵심요소 분석** | 기술경영학                 | [PDF](https://drive.google.com/file/d/1QpqRBVTUjsKypp1oIa8PwWg_Wy0qaBhW/view?usp=sharing)    |
 
-## 💡 Tech Stack
+### 🛠️ Tech Stacks
 
-### Languages
+### 📝 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-### Backend
+### 🖥️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=FastAPI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 
-### Cloud  
+### ☁️ Cloud & Infrastructure
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white)
-![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-F90?style=flat&logo=AWS%20Lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F00?style=flat&logo=Amazon-API-Gateway&logoColor=white)
 
-### Hardware
+### 🤖 AI & Hardware
+![RAG](https://img.shields.io/badge/RAG-Artificial%20Intelligence-blue?style=flat&logo=cpu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
 
-### 경험험해봤어요!
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+### 🎨 Frontend & Experience
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
+### 🚀 Keep Studying
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white)
 
 
 
