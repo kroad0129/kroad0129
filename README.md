@@ -18,15 +18,21 @@
 
 기업정보 수집·검수·분류·내보내기 업무를 하나의 데이터 운영 플랫폼으로 구조화했습니다. 약 231만 행의 공공 개방데이터를 다루며 실제 업무 흐름을 분석했고, 기능과 데이터 구조의 기획부터 프론트엔드·백엔드·데이터베이스·개발 서버 환경까지 구현했습니다.
 
-## 📃 Projects
+## 🧭 How I Work
 
-| 프로젝트 | 소개 | 링크 |
+**문제 정의**　기능을 바로 구현하기보다 사용자의 실제 업무와 불편을 먼저 파악하고, 이를 데이터 기준과 처리 흐름으로 구조화합니다.  
+**설계 판단**　기술을 사용했다는 사실보다 왜 그 구조를 선택했는지, 다른 선택지와 비교해 어떤 기준으로 판단했는지를 중요하게 생각합니다.  
+**AI 활용**　요구사항 구체화와 설계 검토부터 반복 구현·테스트·디버깅까지 AI 도구를 활용하되, 생성된 결과는 코드와 실행 결과를 통해 직접 검증합니다.
+
+## 🚀 Projects
+
+| 프로젝트 | 소개와 기여 | 링크 |
 | --- | --- | --- |
 | **popok** · 진행 중 | 공연예술인 프로필 플랫폼의 기존 코드베이스를 리라이트하며 구조와 안정성을 개선하고 있습니다. | [Service](https://popok.kr) |
-| **PLAYCOCK** | 7명의 운영자가 약 60명의 회원과 운동 세션·대기 팀·경기를 실시간으로 관리하는 배드민턴 동아리 운영 서비스입니다. | [Repository](https://github.com/kroad0129/playcock-monorepo) |
-| **SafeLease** | 임대차 계약서 PDF를 구조화하고 외부 데이터 검증과 법령 RAG를 연결한 계약 검토 보조 서비스입니다. | [Repository](https://github.com/kroad0129/safelease) · [발표자료](https://drive.google.com/file/d/16SwzSZKo1yxeHYKdOcjoy2bZuDNXoOf3/view?usp=sharing) |
-| **OUTLINE** | 지역 문제의 제보·공감·해결 과정을 지도와 AI 요약으로 연결한 지역 이슈 플랫폼입니다. | [Repository](https://github.com/kroad0129/outline) · [발표자료](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing) |
-| **오손도손** | 생활 성향과 지역 주거비를 바탕으로 공동주거 상대를 찾고 정산·규칙·일정을 관리하는 플랫폼입니다. | [Repository](https://github.com/kroad0129/OSDS) · [발표자료](https://drive.google.com/file/d/1Z7-kJxx8NY3ByNusRM5c_SVsesUd_5J-/view?usp=drive_link) |
+| **PLAYCOCK** | 7명의 운영자가 약 60명의 회원과 운동 세션·대기 팀·경기를 실시간으로 관리하는 서비스입니다. 인증·회원 관리와 세션 진행 상태를 다루는 백엔드 및 실시간 기능을 구현했습니다. | [Repository](https://github.com/kroad0129/playcock-monorepo) |
+| **SafeLease** | 임대차 계약서 PDF를 구조화하고 외부 데이터 검증과 법령 RAG를 연결한 계약 검토 보조 서비스입니다. 문서 분석 파이프라인과 백엔드 API를 구현했습니다. | [Repository](https://github.com/kroad0129/safelease) · [발표자료](https://drive.google.com/file/d/16SwzSZKo1yxeHYKdOcjoy2bZuDNXoOf3/view?usp=sharing) |
+| **OUTLINE** | 지역 문제의 제보·공감·해결 과정을 지도와 AI 요약으로 연결한 지역 이슈 플랫폼입니다. 서비스 기획과 백엔드 기능 구현에 참여했습니다. | [Repository](https://github.com/kroad0129/outline) · [발표자료](https://drive.google.com/file/d/1ng-Y9FDUSy0F7gfbOhPRd7LFtSJn9xcY/view?usp=sharing) |
+| **오손도손** | 생활 성향과 지역 주거비를 바탕으로 공동주거 상대를 찾고 정산·규칙·일정을 관리하는 플랫폼입니다. 공동주거 매칭과 생활 관리 흐름을 설계하고 관련 기능 개발에 참여했습니다. | [Repository](https://github.com/kroad0129/OSDS) · [발표자료](https://drive.google.com/file/d/1Z7-kJxx8NY3ByNusRM5c_SVsesUd_5J-/view?usp=drive_link) |
 
 <details>
 <summary><strong>그 외 프로젝트 보기</strong></summary>
@@ -104,7 +110,7 @@
 
 ## 🏆 Awards
 
-- **Goorm 딥다이브 해커톤 대상** — OUTLINE <sub>2025</sub>
+- **Kakao × Goorm 딥다이브 해커톤 대상** — OUTLINE <sub>2025</sub>
 - **구름톤 교육과정 in 판교 최우수상** — 선장 <sub>2025</sub>
 - **고용패널조사 브리프 경진대회 장려상** — 코로나 이후 세대의 직장 만족도 영향 요인 분석 <sub>2023</sub>
 
@@ -119,4 +125,3 @@
 ## 📜 Certifications
 
 `SQL 개발자` · `네트워크관리사 2급` · `컴퓨터활용능력 2급` · `워드프로세서` · `행정관리사 3급`
-
